@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Camila 👋
 
-<!--
-**camila0197/camila0197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Product Marketing Manager** specialized in **digital payments**, **growth strategies**, and **data-driven decision making**.
 
-Here are some ideas to get you started:
+🎯 Passionate about building user-centric financial products by combining data analysis, experimentation campaigns, and market expansion strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects:
+- 📈 **A/B Testing Analytics:** 
+- 🧮 **Cohort Retention Analysis:** 
+- 🎨 **Marketing Campaign Dashboards:**
+
+---
+
+## 💡 About Me
+- ✨ Enthusiastic about the intersection of data, product, payments, and strategy.
+- 🧩 Constantly exploring new ways to optimize campaigns through analytics.
+- 📍 Based in Mexico City | 🌎 Global experience across LATAM, US & EMEA.
+
+## 📫 How to reach me:  
+- ✉ cburmester97@gmail.com
+- https://www.linkedin.com/in/camila-bustos-burmester/
