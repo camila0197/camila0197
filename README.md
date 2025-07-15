@@ -10,10 +10,10 @@
 
 ---
 
-## 🚀 Featured Projects:
-- 📈 **A/B Testing Analytics:** 
-- 🧮 **Cohort Retention Analysis:** 
-- 🎨 **Marketing Campaign Dashboards:**
+## 🚀 Featured Projects
+- 📈 **A/B Testing Analytics** 
+- 🧮 **Cohort Retention Analysis** 
+- 🎨 **Marketing Campaign Dashboards**
 
 ---
 
